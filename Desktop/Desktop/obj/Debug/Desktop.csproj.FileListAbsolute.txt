@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Desktop\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\Usuario\source\repos\Desktop\Desktop\bin\Debug\Desktop.exe
+C:\Users\Usuario\source\repos\Desktop\Desktop\bin\Debug\Desktop.pdb
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.formLogin.resources
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.exe
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.pdb
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.Lang.Langres-En.resources
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.Lang.Langres.resources
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.checkAdm.resources
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.Views.frmAdministrador.resources
+C:\Users\Usuario\source\repos\Desktop\Desktop\obj\Debug\Desktop.Views.frmListaUsuario.resources
